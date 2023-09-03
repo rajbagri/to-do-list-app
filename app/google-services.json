@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542417168692",
+    "project_id": "imagefirebase-9f089",
+    "storage_bucket": "imagefirebase-9f089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542417168692:android:3479168c2139dd846f9d61",
+        "android_client_info": {
+          "package_name": "com.rajbagri.imagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542417168692-tb8qgr54h3d6bqiuseduarbhd7aq6ti9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7AhclcD2SUEBEj-28HcWtYLrAAV51zuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542417168692-tb8qgr54h3d6bqiuseduarbhd7aq6ti9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
